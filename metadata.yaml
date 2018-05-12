@@ -1,0 +1,43 @@
+_repo: In-Morocco_39042
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39042-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: A classic of travel writing, In Morocco is Edith Wharton's remarkable
+  account of her journey to the country during World War I. With a characteristic
+  sense of adventure, Wharton set out to explore Morocco and its people, recording
+  her impressions and encounters. She traveled--by military jeep--to Rabat, Moulay
+  Idriss, Fex and Marrakech, from the Atlantic coast to the high Atlas. Along the
+  way she witnessed religious ceremonies and ritual dances, visited the opulent palaces
+  of the Sultan and was admitted to the mysterious world of his harem. Her narrative
+  is as rich as the souks through which she wandered, peopled with story-tellers and
+  warriors, slaves and silk-spinners; an evocative and intimate portrait of an extraordinary
+  country.
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39042'
+  lccn: '20017098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Morocco -- Description and travel'
+- !lcsh 'Wharton, Edith, 1862-1937 -- Travel -- Morocco'
+title: In Morocco
+url: http://www.gutenberg.org/ebooks/39042
